@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html >
+	<head >
+		<title> About Me </title>
+		<link rel="stylesheet" href="style.css">
+	</head >
+	<body >
+		<div class="navbar">
+			<a href="homepage.html">Home</a>
+			<a href="recipe_home.html">Recipes</a>
+			<a href="kitchen_tips.html">Kitchen Tips</a>
+			<a href="About.html">About Me</a>
+			<a href="social_media.html">Social Media</a>
+		</div>
+		<h1 class="title">About Me</h1>
+		<div class="image-text-about">
+			<img src="pfp.jpg" alt="Image 5">
+			<p>Text underneath the image</p>
+		</div>
+		
+	</body >
+</html >
