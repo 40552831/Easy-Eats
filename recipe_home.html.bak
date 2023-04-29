@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html >
+	<head >
+		<title> Easy Eats </title>
+		<link rel="stylesheet" href="style.css">
+	</head >
+	<body >
+		<div class="navbar">
+			<a href="homepage.html">Home</a>
+			<a href="recipe_home.html">Recipes</a>
+			<a href="kitchen_tips.html">Kitchen Tips</a>
+			<a href="About.html">About Me</a>
+			<a href="social_media.html">Social Media</a>
+		</div>
+		<h1 class="title-recipe">Recipes</h1>
+		<div class="image-container-recipe">
+			<a href="carbonara_recipe.html">
+				<figure>
+					<img src="carbonara.jpg" alt="Image 1">
+					<figcaption>Carbonara</figcaption>
+				</figure>
+			</a>
+  
+			<a href="fajitas_recipe.html">
+				<figure>
+					<img src="fajitas.jpg" alt="Image 2">
+					<figcaption>Steak Fajitas</figcaption>
+				</figure>
+			</a>
+  
+			<a href="shakshuka_recipe.html">
+				<figure>
+					<img src="shakshuka.jpg" alt="Image 3">
+					<figcaption>Shakshuka</figcaption>
+				</figure>
+			</a>
+  
+			<a href="ramen_recipe.html">
+				<figure>
+					<img src="ramen.jpg" alt="Image 4">
+					<figcaption>Ramen</figcaption>
+				</figure>
+			</a>
+		</div>
+
+		
+		
+	</body >
+</html >
